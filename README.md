@@ -19,8 +19,10 @@ Beyond technology, I am deeply passionate about community engagement and thrive 
 
 ### Communities & Engagements
 
-I take pride in being an active participant in the 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 (MLSA), where I contribute to fostering a vibrant community of learners and technologists.
+I take pride in being an active participant in the 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗟𝗲𝗮𝗿𝗻 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 (MLSA), where I contribute to fostering a vibrant community of learners and technologists.
+
 By being part of this community, I continuously learn new things and also enjoy sharing my knowledge with others in my university and community. Teaching and mentoring not only help me reinforce my understanding of topics but also enable me to excel in my management and organization skills.
+
 **Profile:** Check out my Microsoft Student Ambassador profile [here](https://mvp.microsoft.com/en-US/studentambassadors/profile/af9c50b4-bc0c-4408-8932-7c3456c7de28).
 
 ### Skills
