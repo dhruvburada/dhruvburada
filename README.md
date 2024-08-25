@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Developer , Cyber Security & AI Enthusiast
 ------------------------------------------------------------
 
-Hey there! I'm Dhruv Burada, a second-year BTech Computer Engineering student with a relentless passion for technology and software development. As an aspiring tech enthusiast, I am constantly seeking new challenges and opportunities to broaden my knowledge and skills in the ever-evolving tech landscape.
+Hey there! I'm Dhruv Burada, a third-year BTech Computer Engineering student with a relentless passion for technology and software development. As an aspiring tech enthusiast, I am constantly seeking new challenges and opportunities to broaden my knowledge and skills in the ever-evolving tech landscape.
 
 * 🌍  I'm based in Rajkot,India
 * 👨‍🦰 I'm 20
