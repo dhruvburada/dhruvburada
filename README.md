@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhruv Burada
 ====================================================================================================================================
 
-Aspiring Software Developer , Cyber Security & AI Enthusiast
+Aspiring MERN Stack Developer | Tech Enthusiast | Community Builder
 ------------------------------------------------------------
 
-Hey there! I'm Dhruv Burada, a third-year BTech Computer Engineering student with a relentless passion for technology and software development. As an aspiring tech enthusiast, I am constantly seeking new challenges and opportunities to broaden my knowledge and skills in the ever-evolving tech landscape.
+Hey there! I'm Dhruv Burada, a third-year BTech Computer Engineering student passionate about web development and problem-solving. I'm currently learning the MERN stack (MongoDB, Express.js, React, Node.js) and building real-world projects to strengthen my skills.
 
 * 🌍  I'm based in Rajkot,India
-* 👨‍🦰 I'm 20
-* 🧠  I'm learning Mastering Python for automation tasks and exploring cybersecurity principles to enhance system security.
-* 🤝  I'm open to collaborating on Cybersecurity projects focusing on threat detection and mitigation, as well as automation projects aimed at streamlining processes and increasing efficiency.
-* ⚡  In addition to my pursuits, I'm passionate about sharing knowledge and teaching technical concepts. I also work as a freelance graphics designer, where I channel my creativity into visually captivating designs.
+* 👨‍🦰 I'm 21
+* 🧠  Developing full-stack applications using React for frontend and Node.js & Express for backend.
+* 🤝  I’m eager to collaborate on MERN stack projects, especially those that solve real-world problems and enhance learning.
+* ⚡  I am passionate about teaching and sharing knowledge, and I also excel in UI/UX design, where I focus on creating intuitive and visually engaging user experiences.
 *  ✉️ Contact: Feel free to reach out to me at buradadhruv35@gmail.com.
 
   ### Beyond Technology
