@@ -1,49 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhruv Burada
-====================================================================================================================================
 
-Aspiring MERN Stack Developer | Tech Enthusiast | Community Builder
-------------------------------------------------------------
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Dhruv Burada
 
-Hey there! I'm Dhruv Burada, a third-year BTech Computer Engineering student passionate about web development and problem-solving. I'm currently learning the MERN stack (MongoDB, Express.js, React, Node.js) and building real-world projects to strengthen my skills.
+### Full Stack Developer | Tech Enthusiast | Community Builder
 
-* 🌍  I'm based in Rajkot,India
-* 👨‍🦰 I'm 21
-* 🧠  Developing full-stack applications using React for frontend and Node.js & Express for backend.
-* 🤝  I’m eager to collaborate on MERN stack projects, especially those that solve real-world problems and enhance learning.
-* ⚡  I am passionate about teaching and sharing knowledge, and I also excel in UI/UX design, where I focus on creating intuitive and visually engaging user experiences.
-*  ✉️ Contact: Feel free to reach out to me at buradadhruv35@gmail.com.
+I’m **Dhruv Burada**, a **Full Stack Developer** currently working in **Frontend Development using Angular**, while pursuing my **B.Tech in Computer Engineering (4th Semester) at RK University**.
 
-  ### Beyond Technology
+I specialize in Full Stack JavaScript development, primarily using the **MERN stack**, and have professional experience with **Angular** for building robust frontend interfaces.and enjoy crafting **scalable, user-focused web applications** that deliver great experiences and clean design.
 
-Beyond technology, I am deeply passionate about community engagement and thrive in environments where collaboration and learning flourish.
+I love creating seamless user experiences, exploring modern web technologies, and contributing to projects that make a difference.
 
-### Communities & Engagements
+---
 
-I take pride in being an active participant in the 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗟𝗲𝗮𝗿𝗻 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 (MLSA), where I contribute to fostering a vibrant community of learners and technologists.
+### 💡 About Me
 
-By being part of this community, I continuously learn new things and also enjoy sharing my knowledge with others in my university and community. Teaching and mentoring not only help me reinforce my understanding of topics but also enable me to excel in my management and organization skills.
+* 🌍 Based in **Rajkot, India**
+* 👨‍💻 Working as a **Frontend Developer (Angular)**
+* 🧠 Skilled in **MERN and MEAN Stack**, **UI/UX Design**, and **Responsive Web Development**
+* 🤝 Open to contributing to **open-source** and **real-world tech projects**
+* ⚡ Passionate about **community engagement**, **mentorship**, and **continuous learning**
+* ✉️ Reach me at **[buradadhruv35@gmail.com](mailto:buradadhruv35@gmail.com)**
 
-**Profile:** Check out my Microsoft Student Ambassador profile [here](https://mvp.microsoft.com/en-US/studentambassadors/profile/af9c50b4-bc0c-4408-8932-7c3456c7de28).
+---
 
-### Skills
+### 🎯 Current Focus
 
+* Advancing my knowledge of **Angular** and **Node.js**
+* Building scalable **full-stack applications**
+* Learning **microservices architecture** and **cloud deployment** (AWS, Render, Vercel)
+* Contributing to **open-source** and **team-based MERN projects**
+
+---
+
+### 🏆 Communities & Engagement
+
+I’m part of the **Microsoft Learn Student Ambassador (MLSA)** program, where I contribute to fostering collaboration and learning among student developers.
+Teaching, mentoring, and organizing events help me strengthen both my technical and leadership skills.
+
+📜 [Check out my MLSA Profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/af9c50b4-bc0c-4408-8932-7c3456c7de28)
+
+---
+
+### 🧰 Tech Stack
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,angular,express,js,postgres,mysql,bootstrap,flutter,git,docker,aws,java,tailwind,scss" />
+  </a>
 </p>
 
+---
 
+### 🌐 Connect with Me
 
+<p align="left"> <a href="https://github.com/dhruvburada" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dhruvburada" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://x.com/dhruvburada" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
 
+---
 
-### Socials
+### ☕ Support My Work
 
-<p align="left"> <a href="https://www.github.com/dhruvburada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dhruvburada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/dhruvburada" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p>
+<a href="https://www.buymeacoffee.com/dhruvburada"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+</p>
 
-### Support Me
+---
 
-<ul style="list-style-type: none; margin: 0;">
+### 💬 Motto
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dhruvburada"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+> *“Code with purpose. Learn with passion. Build for impact.”*
