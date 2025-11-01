@@ -43,7 +43,7 @@ Teaching, mentoring, and organizing events help me strengthen both my technical 
 ### 🧰 Tech Stack
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,angular,js,postgres,mysql,bootstrap,flutter,git,docker,aws,java,tailwind,scss&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,angular,js,typescript,postgres,mysql,bootstrap,flutter,git,docker,aws,java,tailwind,scss&theme=light" />
   </a>
 </p>
 
