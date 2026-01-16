@@ -3,7 +3,7 @@
 
 ### Full Stack Developer | Tech Enthusiast | Community Builder
 
-I’m **Dhruv Burada**, a **Full Stack Developer** currently working in **Frontend Development using Angular**, while pursuing my **B.Tech in Computer Engineering (4th Semester) at RK University**.
+I’m **Dhruv Burada**, a **Full Stack Developer** currently working in **Frontend Development using Angular**, while pursuing my **B.Tech in Computer Engineering (4th year) at RK University**.
 
 I specialize in Full Stack JavaScript development, primarily using the **MERN stack**, and have professional experience with **Angular** for building robust frontend interfaces.and enjoy crafting **scalable, user-focused web applications** that deliver great experiences and clean design.
 
